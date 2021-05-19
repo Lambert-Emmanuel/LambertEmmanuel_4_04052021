@@ -504,11 +504,11 @@ a[data-lightbox]:hover img{
 #lightbox-modal .modal-dialog{
 	width:90%;
 	max-width:900px;
-	margin:0 auto 0;
+	margin:0 auto;
 	}
 
 #lightbox-modal .modal-dialog img{
-	max-height:90vh;
+	max-height: 320px;
 	margin:0 auto;
 	}
 
